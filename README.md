@@ -1,4 +1,4 @@
-# workshop-lambda-world-15
+# Functional Programming in Scala workshop
 
 ### Environment setup
 - All you need to follow the next steps is **git** and **Java** installed.
